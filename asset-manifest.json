@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/NisargaGondi.github.io/static/css/main.ffbb28da.css",
+    "main.css": "/NisargaGondi.github.io/static/css/main.c13d527c.css",
     "main.js": "/NisargaGondi.github.io/static/js/main.9b016f1c.js",
     "static/css/64.bba8fa55.chunk.css": "/NisargaGondi.github.io/static/css/64.bba8fa55.chunk.css",
     "static/js/64.c6114f0f.chunk.js": "/NisargaGondi.github.io/static/js/64.c6114f0f.chunk.js",
@@ -25,7 +25,7 @@
     "static/media/nextuLogo.webp": "/NisargaGondi.github.io/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/NisargaGondi.github.io/index.html",
     "static/media/talksCardBack.svg": "/NisargaGondi.github.io/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.ffbb28da.css.map": "/NisargaGondi.github.io/static/css/main.ffbb28da.css.map",
+    "main.c13d527c.css.map": "/NisargaGondi.github.io/static/css/main.c13d527c.css.map",
     "main.9b016f1c.js.map": "/NisargaGondi.github.io/static/js/main.9b016f1c.js.map",
     "64.bba8fa55.chunk.css.map": "/NisargaGondi.github.io/static/css/64.bba8fa55.chunk.css.map",
     "64.c6114f0f.chunk.js.map": "/NisargaGondi.github.io/static/js/64.c6114f0f.chunk.js.map",
@@ -33,7 +33,7 @@
     "769.77b7e4d0.chunk.js.map": "/NisargaGondi.github.io/static/js/769.77b7e4d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffbb28da.css",
+    "static/css/main.c13d527c.css",
     "static/js/main.9b016f1c.js"
   ]
 }
